@@ -1,0 +1,32 @@
+.base-sem {
+    width: 50px;
+    height: 300px;
+    background: black;
+}
+.semaforo {
+    width: 200px;
+    height: 550px;
+    border-radius: 30px;
+    background: black;
+}
+.red {
+    width: 150px;
+    height: 150px;
+    border:none;
+    background: red;
+}
+.green {
+    width: 150px;
+    height: 150px;
+    border:none;
+    background: green;
+}
+.yellow {
+    width: 150px;
+    height: 150px;
+    border:none;
+    background: yellow;
+}
+.selected {
+    box-shadow: 0 0 50px white;
+}
